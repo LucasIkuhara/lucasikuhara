@@ -17,7 +17,7 @@ learning and computer graphics. Feel free to check out some of my work below.
  - [Text semantintics classification based on Embeddings](https://github.com/LucasIkuhara/cos-738-busca-e-mineracao-de-texto)
 
 **Computer Graphics:**
- - Firefly-Boid Aquarium
+ - [Firefly-Boid Aquarium](https://github.com/LucasIkuhara/boid-aquarium)
 
 **Other:**
  - [ASF: A simple cli bookmarking tool](https://github.com/LucasIkuhara/asf)
